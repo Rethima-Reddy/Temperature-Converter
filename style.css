@@ -5,7 +5,7 @@
     border-radius: 15px;
     align-content: center;
     justify-content: center;
-    color: #EDF5E1;
+    color: #501B1D;
 }
 .f1
 {
@@ -36,4 +36,8 @@ a {
 .color1
 {
     color: #05356B;
+}
+.b2
+{
+    align-content: center;
 }
